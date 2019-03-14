@@ -8,7 +8,8 @@
 </template>
 
 <script>
-import products from '@/products.json';
+import products from '@/products.json'
+import Product from '@/components/Product.vue'
 
 export default {
   name: 'app',
