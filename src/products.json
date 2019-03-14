@@ -7,43 +7,43 @@
     },
     {
         "id": 1002,
-        "title": "Plane in Sunset",
+        "title": "Plane in Sunset Picture",
         "image": "https://picsum.photos/400?image=888",
         "price": 2662.51
     },
     {
         "id": 1003,
-        "title": "California Coastline",
+        "title": "California Coastline Picture",
         "image": "https://picsum.photos/400?image=851",
         "price": 3745.72
     },
     {
         "id": 1004,
-        "title": "Business Skyline",
+        "title": "Business Skyline Picture",
         "image": "https://picsum.photos/400?image=898",
         "price": 1917.48
     },
     {
         "id": 1005,
-        "title": "LA",
+        "title": "LA Picture",
         "image": "https://picsum.photos/400?image=344",
         "price": 3648.39
     },
     {
         "id": 1006,
-        "title": "Fathers Love",
+        "title": "Fathers Love Picture",
         "image": "https://picsum.photos/400?image=695",
         "price": 1387.02
     },
     {
         "id": 1007,
-        "title": "Staircase Venice",
+        "title": "Staircase Venice Picture",
         "image": "https://picsum.photos/400?image=240",
         "price": 1967.95
     },
     {
         "id": 1008,
-        "title": "Snow Covered Trees",
+        "title": "Snow Covered Trees Picture",
         "image": "https://picsum.photos/400?image=423",
         "price": 2107.64
     }
