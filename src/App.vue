@@ -4,7 +4,7 @@
       <div class="col-md-7"></div>
         <div class="row">
           <div :key="product.id" class="col-md-6" v-for="product in products">
-            <product v-on:add-to-cart="addToCart" :product="product"></product>
+            <product :isInCart="isInCart(product)" v-on:add-to-cart="addToCart" :product="product"></product>
           </div>
         </div>
       <div class="col-md-5"></div>
