@@ -1,50 +1,50 @@
 [
     {
         "id": 1001,
-        "title": " 1",
+        "title": "Bridge in Forest Picture",
         "image": "https://picsum.photos/400?image=879",
         "price": 2919.21
     },
     {
         "id": 1002,
-        "title": " 2",
+        "title": "Plane in Sunset",
         "image": "https://picsum.photos/400?image=888",
         "price": 2662.51
     },
     {
         "id": 1003,
-        "title": " 3",
-        "image": "https://picsum.photos/400?image=710",
+        "title": "California Coastline",
+        "image": "https://picsum.photos/400?image=851",
         "price": 3745.72
     },
     {
         "id": 1004,
-        "title": " 4",
+        "title": "Business Skyline",
         "image": "https://picsum.photos/400?image=898",
         "price": 1917.48
     },
     {
         "id": 1005,
-        "title": " 5",
+        "title": "LA",
         "image": "https://picsum.photos/400?image=344",
         "price": 3648.39
     },
     {
         "id": 1006,
-        "title": " 6",
+        "title": "Fathers Love",
         "image": "https://picsum.photos/400?image=695",
         "price": 1387.02
     },
     {
         "id": 1007,
-        "title": " 7",
+        "title": "Staircase Venice",
         "image": "https://picsum.photos/400?image=240",
         "price": 1967.95
     },
     {
         "id": 1008,
-        "title": " 8",
-        "image": "https://picsum.photos/400?image=723",
+        "title": "Snow Covered Trees",
+        "image": "https://picsum.photos/400?image=423",
         "price": 2107.64
     }
 ]

@@ -2,6 +2,7 @@
     <div class="card my-5">
         <div class="card-body">
             <h5 class="text-center card-title">{{ product.title }}</h5>
+            <img :src="product.image" class="rounded mx-auto d-block"/>
             <p class="text-center text-muted card-text display-4">$ {{ Number(product.price).toFixed(2) }}</p>
             <button :disabled="isInCart" @click="$emit('add-to-cart', product)" class="btn btn-primary form-control"> {{ isInCart ? 'Added to cart' : 'Add to cart' }} </button>
         </div>
