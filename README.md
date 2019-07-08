@@ -1,30 +1,3 @@
-# vue-practice-shop
+<h1>vue-practice-shop</h1>
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# VUE.JS-Shop
+A simple shop in vue with a way to calculate cost of vacation packages.
